@@ -1,0 +1,7 @@
+aiohttp==3.8.5
+asyncio==3.4.3
+python-dotenv==1.0.0
+transformers==4.31.0
+torch==2.0.1
+unitest2==1.1.0
+

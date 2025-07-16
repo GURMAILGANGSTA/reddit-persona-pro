@@ -1,0 +1,27 @@
+# Core NLP and transformers
+transformers>=4.41.1
+torch>=2.1.0
+scikit-learn>=1.4.1
+
+# PDF generation
+weasyprint>=61.0
+pdfkit>=1.0.0
+markdown2>=2.4.13
+
+# Reddit API and async requests
+aiohttp>=3.9.5
+
+# Environment variable handling
+python-dotenv>=1.0.1
+
+# OpenAI API
+openai>=1.0.0
+
+# GUI support (Tkinter is built-in, pillow is optional for image handling)
+pillow>=10.3.0
+
+# Jinja for HTML templating
+Jinja2>=3.1.4
+
+# Optional dev & testing
+tqdm>=4.66.4
